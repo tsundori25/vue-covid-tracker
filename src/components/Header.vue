@@ -5,10 +5,10 @@
       <i class="fa fa-viruses"></i>
     </div>
 
-    <p class="text-black text-2xl">
+    <p class="text-black text-1xl">
       API by
-      <a class="text-white" href="https://covid19api.com" target="_blank"
-        >covid19api.com</a
+      <a class="text-red" href="https://covid19api.com" target="_blank"
+        >covid19api.com | &copy; Dwi Okta Hariyono</a
       >
     </p>
   </header>
